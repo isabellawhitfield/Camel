@@ -1,0 +1,58 @@
+body{
+
+}
+
+
+
+*{
+  margin: auto;
+  padding: 20px;
+}
+
+
+.firstSection{
+  font-size: 90px;
+
+}
+
+.moodIntro {
+  text-align: center;
+  color: red;
+}
+
+.imgCat{
+  display: block;
+  float: left;
+}
+.imgCat2{
+  display: block;
+  float: right;
+}
+.firstPara{
+  text-align: center;
+  color: #F033FF ;
+  font-size: 20px;
+}
+.secondPara{
+  text-align: center;
+  color:  #36FF33 ;
+  font-size: 20px;
+
+
+}
+
+.thirdPara{
+  text-align: center;
+  color:  #FFDD33  ;
+  font-size: 20px;
+
+
+}
+
+.fourthPara{
+  text-align: center;
+  color:  #33F9FF  ;
+  font-size: 20px;
+
+
+}
